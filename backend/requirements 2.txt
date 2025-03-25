@@ -1,0 +1,5 @@
+uagents
+openai
+langchain
+faiss-cpu
+PyYAML
